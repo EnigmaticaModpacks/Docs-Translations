@@ -18,11 +18,5 @@ If you would like to help translate the Enigmatica modpacks to new languages, fo
 | Enigmatica 8 | [https://crowdin.com/project/enigmatica-8](https://crowdin.com/project/enigmatica-8) |
 
 {% hint style="info" %}
-When the box is already filled, it means that a translator has already translated the string.&#x20;
-
-If the box is not filled, click on it and suggest your translation&#x20;
-
-If you are not sure about a translation don't do it and let another translator translate it.&#x20;
-
-If you believe a translation is incorrect or could be improved, you can fill the box with your own translation.
+If you are not sure about a translation, let another translator translate it.&#x20;
 {% endhint %}
