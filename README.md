@@ -1,6 +1,6 @@
 # Contributing
 
-If you would like to help translate the Enigmatica modpacks to new languages, follow the instructions below to contribute.
+If you would like to help translate the Enigmatica modpacks to new languages, please follow the instructions below.
 
 ## Become a Translator
 
