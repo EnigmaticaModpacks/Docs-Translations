@@ -16,7 +16,6 @@ If you would like to help translate the Enigmatica modpacks to new languages, fo
 | ------------ | ------------------------------------------------------------------------------------ |
 | Enigmatica 6 | [https://crowdin.com/project/enigmatica-6](https://crowdin.com/project/enigmatica-6) |
 | Enigmatica 8 | [https://crowdin.com/project/enigmatica-8](https://crowdin.com/project/enigmatica-8) |
-|              |                                                                                      |
 
 {% hint style="info" %}
 When the box is already filled, it means that a translator has already translated the string.&#x20;
