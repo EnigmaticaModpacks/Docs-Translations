@@ -1,4 +1,9 @@
-# Contributing
+---
+cover: .gitbook/assets/EMPS-1900x400.png
+coverY: 0
+---
+
+# 🙌 Contributing
 
 If you would like to help translate the Enigmatica modpacks to new languages, please follow the instructions below.
 
